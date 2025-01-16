@@ -1,5 +1,4 @@
-# 깃허브 사용법
-![image](https://github.com/user-attachments/assets/d62de086-dbe0-402e-ab63-71bb8f6fc049)
+# 깃허브 사용법 ![image](https://github.com/user-attachments/assets/d62de086-dbe0-402e-ab63-71bb8f6fc049)
 1. Git 저장소 초기화
 git init: 현재 디렉터리를 Git 저장소로 초기화하여 버전 관리를 시작합니다.
 2. 파일 스테이징 (Stage)
