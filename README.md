@@ -4,7 +4,7 @@
 ## 1. Git 기본 설정
 먼저 Git을 설치하고 기본 설정을 해야 합니다.
 
-```bash
+```
 # Git 사용자 정보 설정
 git config --global user.name "Your Name"
 git config --global user.email "your.email@example.com"
